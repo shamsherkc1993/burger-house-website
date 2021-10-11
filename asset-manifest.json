@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/burger-house-website/static/css/main.4950f548.chunk.css",
+    "main.js": "/burger-house-website/static/js/main.214cfdc9.chunk.js",
+    "main.js.map": "/burger-house-website/static/js/main.214cfdc9.chunk.js.map",
+    "runtime-main.js": "/burger-house-website/static/js/runtime-main.7c66ff89.js",
+    "runtime-main.js.map": "/burger-house-website/static/js/runtime-main.7c66ff89.js.map",
+    "static/css/2.e4d55abd.chunk.css": "/burger-house-website/static/css/2.e4d55abd.chunk.css",
+    "static/js/2.80c81605.chunk.js": "/burger-house-website/static/js/2.80c81605.chunk.js",
+    "static/js/2.80c81605.chunk.js.map": "/burger-house-website/static/js/2.80c81605.chunk.js.map",
+    "index.html": "/burger-house-website/index.html",
+    "precache-manifest.9a45f398692e3310392d490f8bbef2e7.js": "/burger-house-website/precache-manifest.9a45f398692e3310392d490f8bbef2e7.js",
+    "service-worker.js": "/burger-house-website/service-worker.js",
+    "static/css/2.e4d55abd.chunk.css.map": "/burger-house-website/static/css/2.e4d55abd.chunk.css.map",
+    "static/css/main.4950f548.chunk.css.map": "/burger-house-website/static/css/main.4950f548.chunk.css.map",
+    "static/js/2.80c81605.chunk.js.LICENSE.txt": "/burger-house-website/static/js/2.80c81605.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/burger-house-website/static/media/burger.b60f8aba.jpg",
+    "static/media/burger1.jpg": "/burger-house-website/static/media/burger1.ad5fa503.jpg",
+    "static/media/burger2.jpg": "/burger-house-website/static/media/burger2.9beee3a5.jpg",
+    "static/media/burger3.jpg": "/burger-house-website/static/media/burger3.e4ab6404.jpg",
+    "static/media/burger4.jpg": "/burger-house-website/static/media/burger4.bfe17a5f.jpg",
+    "static/media/burger5.jpg": "/burger-house-website/static/media/burger5.8932b4de.jpg",
+    "static/media/burger6.jpg": "/burger-house-website/static/media/burger6.d059d40e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c66ff89.js",
+    "static/css/2.e4d55abd.chunk.css",
+    "static/js/2.80c81605.chunk.js",
+    "static/css/main.4950f548.chunk.css",
+    "static/js/main.214cfdc9.chunk.js"
+  ]
+}
